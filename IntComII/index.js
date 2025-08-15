@@ -5,3 +5,4 @@ function suma(a, b) {
 };
 
 console.log(suma(2, 3)); // Expected output: 5
+console.log("cambio")
