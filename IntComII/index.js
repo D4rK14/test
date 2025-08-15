@@ -9,3 +9,5 @@ console.log("cambio")
 console.log("cambio2")
 console.log("cambio3")
 console.log("cambio4")
+console.log("cambio") // Expected output: "cambio"
+console.log("cambio") // Expected output: "cambio"
